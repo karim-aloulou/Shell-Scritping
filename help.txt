@@ -1,0 +1,20 @@
+###############
+# main_script #
+###############
+
+FRENCH:
+
+Options Disponibles :
+-h : Pour afficher le help détaillé à partir d’un fichier texte
+-g: Pour afficher un menu textuel et gérer les fonctionnalité de façon graphique
+-v: Pour afficher le nom des auteurs et version du code
+-m: Pour afficher un menu textuel
+
+
+ENGLISH:
+
+Available options:
+-h: To display detailed help from a text file
+-g: To display a textual menu and manage functionalities in a graphical way
+-v: To display the authors' names and version of the code
+-m: To display a textual menu
